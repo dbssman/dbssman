@@ -19,7 +19,7 @@
   <br>
   💻 I love Writing code, Hardware and learning every day 😊
   <br>
-  📚 I’m currently focusing on Vue
+  📚 I’m currently focusing on Vue.js
   <br>
   📫 How to reach me 👇
 </p>
