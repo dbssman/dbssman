@@ -8,7 +8,7 @@
    
 ### About Me:
 <p align="center">
-  Hi, I'm Dennis R. Bosmans, Front-end software developer based in spain
+  Hi, I'm Dennis R. Bosmans, Front-End software developer based in spain
   <br>
   <br>
   🚀 Creator and maintainer of <a href="https://vue-form-handler.com" target="_blank">vue-form-handler</a>
