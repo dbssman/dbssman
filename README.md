@@ -11,7 +11,7 @@
   Hi, I'm Dennis R. Bosmans, Front-End software developer based in spain
   <br>
   <br>
-  🚀 Creator and maintainer of <a href="https://vue-form-handler.com" target="_blank">vue-form-handler</a>
+  🚀 Creator and Maintainer of <a href="https://vue-form-handler.com" target="_blank">vue-form-handler</a>
   <br>
   <br>
   <img width="80%" alt="Vue form handler image" src="images/vue-form-handler.png"></img>
